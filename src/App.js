@@ -8,7 +8,7 @@ function App () {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
-          Whassup and back at ya! Edit <code>src/App.js</code> and save to reload.
+          I have all the beans...
         </p>
         <a
           className='App-link'
