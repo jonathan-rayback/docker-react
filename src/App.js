@@ -8,7 +8,7 @@ function App () {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
-          I have all the beans...
+          I have all them beans...
         </p>
         <a
           className='App-link'
